@@ -34,8 +34,8 @@
         "func": "\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
-        "x": 390,
-        "y": 240,
+        "x": 710,
+        "y": 260,
         "wires": [
             [
                 "d0200e96.3c74f"
